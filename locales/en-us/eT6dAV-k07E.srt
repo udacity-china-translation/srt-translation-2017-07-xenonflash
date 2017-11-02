@@ -20,7 +20,7 @@ see here, and you probably don't want to retype it over and over.
 
 6
 00:00:16,190 --> 00:00:18,220
-So what if our code instead said this?
+So what if our code instead of this?
 
 7
 00:00:18,220 --> 00:00:21,340
